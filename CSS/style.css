@@ -1,0 +1,50 @@
+ *{background-color: lightgray;
+font-family:  Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;} 
+.h1{color: green;  border: 2px solid; font-family:Arial, Helvetica, sans-serif;
+border-radius: 0px 20px 20px 20px; width:400px;margin:left;padding: 10px;
+box-sizing: border-box;background-color: brown;
+outline:2px brown dashed; outline-offset: 2px; text-shadow: 2px 2px 1.5px yellowgreen;
+ }
+
+.h2{color: green; border: 2px solid; font-family:Arial, Helvetica, sans-serif;
+   border-radius: 0px 20px 20px 20px;width:260px; margin:left; padding: 05px;
+    background-color: brown; outline: 1px brown groove; outline-offset: 2px;
+font-family: serif;}
+.p1{color: brown;}
+
+
+.Text1{color:blue; background-color: lightskyblue;
+       border: 5px outset blue; width:330px;
+       margin: auto; padding:10px 0px 10px 10px; box-sizing: border-box;  }
+
+.Text2{color: blueviolet; background-color: lightblue;
+       border: 4px inset blueviolet; width:120px; margin: left;
+       padding: 15px 0PX 5PX 5PX; }
+
+.Lists1{color: blue;background-color: lightsteelblue; 
+        border-radius: 10px; border: 5px solid;
+        width:280px; padding: 10px 5px 10px 10px;}
+.Lists1a{color:blue}
+.Lists2{color: crimson;background-color: lightpink;
+        width:150px; padding:auto; box-sizing: border-box;}
+.Lists2a{color: crimson;}
+.Lists3{color: green; background-color:lightgreen;
+        width:90px; padding: 5px 0px 5px 5px;}
+.Lists3a{color: green;}
+.Links1{color: blue; background-color: lightskyblue; border: blue 5px outset;
+width: 225px; border-radius: 10px; font-size: 50px; padding: 5px 0px 5px 10px;}
+.Links2{color: red; background-color: rgba( 150, 0,0, 0.8); width: 225px;
+ border-radius: 5px; border: red 5px inset; font-size: 35px; padding: 5px 0px 5px 10px;}
+.Links3{color: red;}
+.Links4{color: #551a8b;}
+ .Table1{color:darkred;border:lightcoral 5px solid; border-spacing: 15px;}
+
+th{color:darkred;}
+tr{color:brown;}
+.Form1{color: darkred; font-size: 25px; }
+.Form2{color: rgb(139, 20, 22)}
+.Form3{color: blue;}
+.markup{color: rgb(231, 132, 39); background: mediumorchid;
+border: 2px inset rgb(231, 132, 39); border-radius: auto;
+width: 200px; padding: auto; outline: 2px darkred dotted;
+outline-offset: 2px;}
